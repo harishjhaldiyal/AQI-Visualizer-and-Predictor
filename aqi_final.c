@@ -1,27 +1,3 @@
-/**
-* ENGG1110 Problem Solving by Programming
-*
-* Project Phase 3, Task ABC
-*
-* I declare that the assignment here submitted is original
-* except for source material explicitly acknowledged,
-* and that the same or closely related material has not been
-* previously submitted for another course.
-* I also acknowledge that I am aware of University policy and
-* regulations on honesty in academic work, and of the disciplinary
-* guidelines and procedures applicable to breaches of such
-* policy and regulations, as contained in the website.
-*
-* University Guideline on Academic Honesty:
-*   http://www.cuhk.edu.hk/policy/academichonesty/
-*
-* Student Name : HARISH-KUMAR
-* Student ID   : 1155090935
-* Class/Section: JL01
-* Date         : 6 APRIL 2017
-*/
-
-
 #define _CRT_SECURE_NO_WARNINGS // to disable Microsoft VS warnings
 #include <stdio.h> // standard i/o header file
 #include <string.h>
